@@ -2,4 +2,4 @@
 
 A game having the functionality of DOM manipulation
 
-![](images/game.png)
+![](images/game1.png)
